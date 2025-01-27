@@ -22,7 +22,7 @@ img{
     animation-iteration-count: infinite;
     animation-duration: 2s;
     animation-name: anime;
-    animation: ease;
+    animation: linear;
 }
 
 @keyframes anime{
