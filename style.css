@@ -19,10 +19,7 @@ p{
 
 img{
     border: 16px solid black;
-    animation-iteration-count: infinite;
-    animation-duration: 2s;
-    animation-name: anime;
-    animation: linear;
+    animation: anime linear infinite 2s;
 }
 
 @keyframes anime{
